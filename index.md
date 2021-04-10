@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## Bienvenue sur ce site de cours à l'usage exclusif de mes élèves
 
-You can use the [editor on GitHub](https://github.com/teacherferrare/cours/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/teacherferrare/cours/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Mauris suscipit ex a pulvinar faucibus. Vivamus vestibulum mollis consequat. Maecenas sed lacus eros. Maecenas blandit, diam non sodales sodales, erat justo tincidunt turpis, sit amet semper dolor massa a diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur venenatis nisi non vulputate dapibus. Phasellus et neque aliquet, vehicula quam non, maximus sem. Suspendisse convallis felis commodo justo aliquet sollicitudin. Sed aliquet, justo eu dignissim imperdiet, urna augue bibendum mi, nec pellentesque metus lectus et massa. Fusce hendrerit rhoncus ante eget molestie. Curabitur enim quam, placerat nec eros at, fringilla tincidunt eros. Praesent ut commodo lorem, vitae volutpat enim. Suspendisse tempor, risus ac finibus rhoncus, purus lorem rutrum ligula, et tincidunt lorem sapien non erat. Vestibulum vel nisi et lacus fermentum consectetur in eu lacus. In hac habitasse platea dictumst.
